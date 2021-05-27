@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Navneetkaur0487
-- 👀 I’m interested in web development and ui design
-- 🌱 I’m currently learning java and jquery 
+- 👀 I’m interested in web development 
 - 💞️ I’m looking to collaborate on web development project 
 - 📫 How to reach me ...
 
